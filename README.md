@@ -1,8 +1,9 @@
-Halo, dunia! 🌍
-Perkenalkan, saya Ahmad Nur Faizin! 👋
-
-
-
+# Halo semua! 
+ 
+Perkenalkan nama saya **AHMAD NUR FAIZIN**.<br>
+ 
+Saya seorang **Software Developer** dari [Dicoding](https://www.dicoding.com/).<br>
+ 
 🚀 Developer Bot & Web Enthusiast
 Saya seorang pengembang yang berfokus pada bot development dengan Python, tetapi juga memiliki pengalaman dalam web programming.
 
@@ -14,8 +15,13 @@ Selain bermain dengan logika dan algoritma di backend, saya juga menjelajahi dun
 
 💡 Mari Terhubung!
 Jika kamu tertarik untuk berbincang tentang teknologi, AI, atau pengembangan bot, jangan ragu untuk menghubungi saya! 🚀
-
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ahmad-nur-faizin-62b242323/)ku ya.
-
+ 
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
+ 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
