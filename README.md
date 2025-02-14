@@ -17,5 +17,5 @@ Jika kamu tertarik untuk berbincang tentang teknologi, AI, atau pengembangan bot
 
 Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]((https://www.linkedin.com/in/ahmad-nur-faizin-62b242323/))ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ahmad-nur-faizin-62b242323/)ku ya.
 
